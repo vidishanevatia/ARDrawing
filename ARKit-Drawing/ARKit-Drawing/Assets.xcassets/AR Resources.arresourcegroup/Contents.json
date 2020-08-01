@@ -1,0 +1,17 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "diaper.arreferenceimage"
+    },
+    {
+      "filename" : "firetruck.arreferenceimage"
+    },
+    {
+      "filename" : "Messages Image(784240004).arreferenceimage"
+    }
+  ]
+}
